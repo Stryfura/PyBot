@@ -6,7 +6,7 @@ from slackclient import SlackClient
 
 # instantiate Slack client
 # need to figure out how to add this to a env variable
-slack_client = SlackClient("xoxb-7395667934403-7418685466160-PSAx1lNpJW9fIThwXfbsYhlq") 
+slack_client = SlackClient("") 
 # starterbot's user ID in Slack: value is assigned after the bot starts up
 starterbot_id = None
 
